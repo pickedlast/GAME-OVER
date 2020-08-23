@@ -1,0 +1,13 @@
+C:\Users\Timothy\Desktop\Basic Programs\GameOver\GameOver\GameOver\bin\Debug\netcoreapp3.1\GameOver.exe
+C:\Users\Timothy\Desktop\Basic Programs\GameOver\GameOver\GameOver\bin\Debug\netcoreapp3.1\GameOver.deps.json
+C:\Users\Timothy\Desktop\Basic Programs\GameOver\GameOver\GameOver\bin\Debug\netcoreapp3.1\GameOver.runtimeconfig.json
+C:\Users\Timothy\Desktop\Basic Programs\GameOver\GameOver\GameOver\bin\Debug\netcoreapp3.1\GameOver.runtimeconfig.dev.json
+C:\Users\Timothy\Desktop\Basic Programs\GameOver\GameOver\GameOver\bin\Debug\netcoreapp3.1\GameOver.dll
+C:\Users\Timothy\Desktop\Basic Programs\GameOver\GameOver\GameOver\bin\Debug\netcoreapp3.1\GameOver.pdb
+C:\Users\Timothy\Desktop\Basic Programs\GameOver\GameOver\GameOver\obj\Debug\netcoreapp3.1\GameOver.csprojAssemblyReference.cache
+C:\Users\Timothy\Desktop\Basic Programs\GameOver\GameOver\GameOver\obj\Debug\netcoreapp3.1\GameOver.AssemblyInfoInputs.cache
+C:\Users\Timothy\Desktop\Basic Programs\GameOver\GameOver\GameOver\obj\Debug\netcoreapp3.1\GameOver.AssemblyInfo.cs
+C:\Users\Timothy\Desktop\Basic Programs\GameOver\GameOver\GameOver\obj\Debug\netcoreapp3.1\GameOver.csproj.CoreCompileInputs.cache
+C:\Users\Timothy\Desktop\Basic Programs\GameOver\GameOver\GameOver\obj\Debug\netcoreapp3.1\GameOver.dll
+C:\Users\Timothy\Desktop\Basic Programs\GameOver\GameOver\GameOver\obj\Debug\netcoreapp3.1\GameOver.pdb
+C:\Users\Timothy\Desktop\Basic Programs\GameOver\GameOver\GameOver\obj\Debug\netcoreapp3.1\GameOver.genruntimeconfig.cache
